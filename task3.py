@@ -1,9 +1,7 @@
 # Task 3
-# Reverse int.
+# validate palindrome.
 # sample:
-# assert reverse_int(12345) == 54321
+# assert validate_palindrome(12321) == True
 
-def reverse_int(value):
-    return ...
-
-print(reverse_int(12345))
+def is_palindrome(value):
+    pass
